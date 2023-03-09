@@ -53,7 +53,7 @@ $ cd qr-code-gen-app
 
 ```bash
 $ npm install
-$ node ./src/index.js
+$ npm run dev
 ```
 
 #### Run Tests
