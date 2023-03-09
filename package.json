@@ -1,0 +1,22 @@
+{
+  "name": "qr-code-gen-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "chai-spies": "^1.0.0",
+    "prompt-sync": "^4.2.0",
+    "qrcode": "^1.5.1",
+    "sinon": "^15.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
